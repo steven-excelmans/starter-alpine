@@ -1,0 +1,33 @@
+{
+  "name": "tailwind-starter-webpack",
+  "version": "1.0.0",
+  "description": "A starter project with Webpack + Tailwind + PostCSS",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "dev": "webpack serve"
+  },
+  "keywords": [
+    "tailwind",
+    "webpack",
+    "postcss"
+  ],
+  "author": "Steven Excelmans",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "postcss": "^8.4.14",
+    "postcss-loader": "^7.0.0",
+    "postcss-preset-env": "^7.7.1",
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwindcss": "^0.1.11",
+    "style-loader": "^3.3.1",
+    "tailwindcss": "^3.1.4",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.2"
+  },
+  "dependencies": {
+    "alpinejs": "^3.10.2"
+  }
+}
