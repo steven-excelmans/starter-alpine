@@ -1,4 +1,4 @@
-# Starter Web
+# Starter Alpine.js
 
 A simple lightweight starter web project using the following frameworks. 
 
