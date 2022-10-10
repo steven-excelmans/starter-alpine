@@ -28,6 +28,6 @@
     "webpack-dev-server": "^4.10.0"
   },
   "dependencies": {
-    "alpinejs": "^3.10.3"
+    "alpinejs": "^3.10.4"
   }
 }
