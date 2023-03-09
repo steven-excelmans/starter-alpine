@@ -16,7 +16,7 @@
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.7.1",
-    "postcss": "^8.4.16",
+    "postcss": "^8.4.21",
     "postcss-loader": "^7.0.1",
     "postcss-preset-env": "^8.0.1",
     "prettier": "^2.7.1",
